@@ -36,6 +36,7 @@ img {
 .container-two {
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 
 .images {
