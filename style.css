@@ -15,3 +15,8 @@ body {
 .link {
     padding: 0px 10px;
 }
+
+.container-one {
+    display: flex;
+    
+}
