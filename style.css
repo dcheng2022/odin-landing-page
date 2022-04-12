@@ -31,6 +31,12 @@ body {
     width: 325px;
 }
 
+h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 800;
+}
+
 img {
     height: 160px;
     width: auto;
