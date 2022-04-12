@@ -119,6 +119,8 @@ strong {
     display: flex;
     justify-content: space-between;
     background-color: #3882F6;
+    padding: 25px 50px;
+    margin: 50px 200px;
 }
 
 h3 {
