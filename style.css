@@ -6,3 +6,7 @@ body {
 .header {
     display: flex;
 }
+
+.header-logo {
+    margin-right: auto;
+}
