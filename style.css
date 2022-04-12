@@ -18,5 +18,5 @@ body {
 
 .container-one {
     display: flex;
-    
+    align-items: center;
 }
