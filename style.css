@@ -111,6 +111,7 @@ strong {
 .container-four {
     display: flex;
     justify-content: space-between;
+    background-color: #3882F6;
 }
 
 .footer {
