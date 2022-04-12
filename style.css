@@ -67,7 +67,7 @@ img {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 24px;
+    padding: 24px 0px 100px 0px;
     row-gap: 24px;
 }
 
