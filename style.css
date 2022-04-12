@@ -47,6 +47,13 @@ h1 {
     color: #E5E7EB;
 }
 
+.sign-up {
+    width: 150px;
+    background-color: #3882F6;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 img {
     height: 160px;
     width: auto;
