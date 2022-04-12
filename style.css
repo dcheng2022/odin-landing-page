@@ -9,6 +9,7 @@ body {
     display: flex;
     background-color: #1F2937;
     padding: 20px 200px;
+    align-items: center;
 }
 
 .header-logo {
