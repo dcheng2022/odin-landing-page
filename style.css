@@ -66,6 +66,10 @@ strong {
     align-self: flex-end;
 }
 
+.container-four {
+    display: flex;
+}
+
 h1, h2, h3, p {
     margin: 0px;
 }
