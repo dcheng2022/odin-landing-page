@@ -104,6 +104,8 @@ em {
 
 strong {
     align-self: flex-end;
+    color: #1F2937;
+    font-weight: 800;
 }
 
 .container-four {
