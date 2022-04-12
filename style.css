@@ -119,6 +119,11 @@ h3 {
     color: #F9FAF8;
 }
 
+.container-four p {
+    color: #F9FAF8;
+    font-size: 18px;
+}
+
 .footer {
     align-self: center;
 }
