@@ -38,6 +38,10 @@ body {
     flex-direction: column;
 }
 
+.images {
+    display: flex;
+}
+
 h1, h2, h3, p {
     margin: 0px;
 }
