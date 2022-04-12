@@ -57,6 +57,10 @@ img {
     flex-direction: column;
 }
 
+em {
+    width: 300px;
+}
+
 strong {
     align-self: flex-end;
 }
