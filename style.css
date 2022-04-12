@@ -11,3 +11,7 @@ body {
 .header-logo {
     margin-right: auto;
 }
+
+.link {
+    padding: 0px 10px;
+}
