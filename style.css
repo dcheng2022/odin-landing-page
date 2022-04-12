@@ -87,6 +87,7 @@ img {
 
 .duo img {
     border: 5px solid #3882F6;
+    border-radius: 10px;
 }
 
 h2 {
