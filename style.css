@@ -124,6 +124,12 @@ h3 {
     font-size: 18px;
 }
 
+.sign-up-two {
+    border: 5px solid #F9FAF8;
+    color: #F9FAF8;
+    background: #3882F6;
+}
+
 .footer {
     align-self: center;
 }
