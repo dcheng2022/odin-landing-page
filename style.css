@@ -57,6 +57,10 @@ img {
     flex-direction: column;
 }
 
+strong {
+    align-self: flex-end;
+}
+
 h1, h2, h3, p {
     margin: 0px;
 }
