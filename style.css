@@ -114,6 +114,11 @@ strong {
     background-color: #3882F6;
 }
 
+h3 {
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
 .footer {
     align-self: center;
 }
