@@ -33,6 +33,11 @@ body {
     width: 325px;
 }
 
+.container-two {
+    display: flex;
+    flex-direction: column;
+}
+
 h1, h2, h3, p {
     margin: 0px;
 }
