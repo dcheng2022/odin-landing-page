@@ -52,6 +52,11 @@ img {
     text-align: center;
 }
 
+.container-three {
+    display: flex;
+    flex-direction: column;
+}
+
 h1, h2, h3, p {
     margin: 0px;
 }
