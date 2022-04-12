@@ -28,6 +28,11 @@ body {
     width: 325px;
 }
 
+.right-one {
+    height: 160px;
+    width: 325px;
+}
+
 h1, h2, h3, p {
     margin: 0px;
 }
