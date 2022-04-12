@@ -43,6 +43,10 @@ img {
     align-items: center;
 }
 
+.duo {
+    width: 130.81px;
+}
+
 h1, h2, h3, p {
     margin: 0px;
 }
