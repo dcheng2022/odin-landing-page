@@ -21,6 +21,12 @@ body {
     align-items: center;
 }
 
+.left-one {
+    display: flex;
+    flex-direction: column;
+    width: 325px;
+}
+
 h1, h2, h3, p {
     margin: 0px;
 }
