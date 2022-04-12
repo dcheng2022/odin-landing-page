@@ -2,6 +2,7 @@ body {
     display: flex;
     flex-direction: column;
     padding: 10px 100px;
+    justify-content: space-between;
 }
 
 .header {
@@ -69,6 +70,10 @@ strong {
 .container-four {
     display: flex;
     justify-content: space-between;
+}
+
+.footer {
+    align-self: center;
 }
 
 h1, h2, h3, p {
