@@ -8,4 +8,4 @@ style.css legibility can be improved
 'duo' class stylizations can be improved 
 'images' flex container percentage margins 
 
-Image credits to stein egil liland (@therato).
+Hero image credits to stein egil liland (@therato).
