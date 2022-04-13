@@ -70,7 +70,6 @@ img {
 .container-two {
     display: flex;
     flex-direction: column;
-    align-items: center;
     padding: 3% 2% 6% 2%;
     row-gap: 24px;
 }
