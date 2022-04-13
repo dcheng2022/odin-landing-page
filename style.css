@@ -6,6 +6,7 @@ body {
     justify-content: space-between;
     font-family: Roboto, sans-serif;
     font-size: 18px;
+    color: #E5E7EB;
     margin: 0px;
 }
 
@@ -53,10 +54,6 @@ body {
 h1 {
     font-size: 48px;
     color: #F9FAF8;
-}
-
-.left-one p {
-    color: #E5E7EB;
 }
 
 .sign-up {
@@ -133,11 +130,7 @@ strong {
     border-radius: 10px;
 }
 
-h3 {
-    color: #F9FAF8;
-}
-
-.container-four p {
+h3, .container-four p {
     color: #F9FAF8;
 }
 
