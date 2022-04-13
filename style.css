@@ -20,7 +20,6 @@ body {
 .header-logo {
     margin-right: auto;
     font-size: 24px;
-    color: #F9FAF8;
 }
 
 .link {
@@ -53,7 +52,6 @@ body {
 
 h1 {
     font-size: 48px;
-    color: #F9FAF8;
 }
 
 .sign-up {
@@ -130,13 +128,12 @@ strong {
     border-radius: 10px;
 }
 
-h3, .container-four p {
+h1, h3, .container-four p, .sign-up-two, .header-logo {
     color: #F9FAF8;
 }
 
 .sign-up-two {
     border: 3px solid #F9FAF8;
-    color: #F9FAF8;
     background: #3882F6;
     border-radius: 10px;
     padding: 0px 25px;
@@ -146,7 +143,6 @@ h3, .container-four p {
     display: flex;
     justify-content: center;
     background-color: #1F2937;
-    color: #F9FAF8;
     padding: 2% 0px;
 }
 
