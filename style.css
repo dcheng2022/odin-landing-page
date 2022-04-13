@@ -86,7 +86,6 @@ img {
 .duo {
     max-width: 175px;
     text-align: center;
-    color: #1F2937;
 }
 
 .duo img {
@@ -96,7 +95,6 @@ img {
 
 h2 {
     font-size: 36px;
-    color: #1F2937;
     text-align: center;
 }
 
@@ -110,13 +108,15 @@ h2 {
 
 em {
     font-size: 36px;
-    color: #1F2937;
 }
 
 strong {
     align-self: flex-end;
-    color: #1F2937;
     font-size: 24px;
+}
+
+em, strong, .duo, h2 {
+    color: #1F2937;
 }
 
 .container-four {
